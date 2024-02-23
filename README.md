@@ -4,7 +4,7 @@
 - 👀 I’m interested in machine learning projects
 - 👯 I’m looking to collaborate on any machine learning project
 - 🌱 I’m currently working as Lead developer at Highline Residential
-- 💞️ how to reach me at sauddsaleem@gmail.com
+- 💞️ Reach me at sauddsaleem@gmail.com
 <!--
 **SaudSaleem/SaudSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
