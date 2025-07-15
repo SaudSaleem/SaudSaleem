@@ -1,6 +1,5 @@
 ### Hi there I am @SaudSaleem 👋
-- 👋 I am a senior Full Stack Javascript developer
-- 🌱 I’m currently learning Machine learning
+- 👋 I am a senior Full Stack AI developer
 - 👀 I’m interested in web development and machine learning projects
 - 👯 I’m looking to collaborate on any web development and machine learning project
 - 🌱 I’m currently working as a Lead developer at Highline Residential
